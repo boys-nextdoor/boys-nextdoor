@@ -1,5 +1,5 @@
 ### Мой стэк технологий
-![Java]([https://img.shields.io/badge](https://camo.githubusercontent.com/ecd535b833a6520e8d8238ceffadb3b3dda6e854826193d419c305f3e52fee22/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6a6176612d6f726967696e616c2d776f72646d61726b2e737667)/-Java-000000?logo=java&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/-Java-000000?logo=java&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 <!--
 **boys-nextdoor/boys-nextdoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
