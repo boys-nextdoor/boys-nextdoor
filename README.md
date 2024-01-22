@@ -1,4 +1,4 @@
-### Hi there 👋
+### Мой стэк технологий
 ![Java](https://img.shields.io/badge/-Java-000000?logo=java&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 <!--
